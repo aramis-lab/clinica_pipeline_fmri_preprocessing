@@ -32,7 +32,7 @@ Original author: Jérémy Guillon ([@jguillon](https://github.com/jguillon))
 - Clone this repo
 - Create the environment variable `CLINICAPATH` like this:
 ```bash
-export CLINICAPATH="/path/to/the/repo/clinica_pipeline_noddi"
+export CLINICAPATH="/path/to/the/repo/clinica_pipeline_fmri_preprocessing"
 ```
 
 When typing `clinica run` in your terminal, you should see the `fmri-preprocessing` pipeline.
